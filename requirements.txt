@@ -1,4 +1,4 @@
-Django==4.2.0
+Django==4.2.18
 transformers==4.30.0
 torch==2.0.0
 numpy==1.24.3
